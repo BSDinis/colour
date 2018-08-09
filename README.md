@@ -8,6 +8,7 @@ Includes a simple usage test .
 ## Install
 
 1. Clone the repo
+2. `cd /path/to/repo`
 2. `mv include/colour.h /usr/include`
 
 ## Usage
